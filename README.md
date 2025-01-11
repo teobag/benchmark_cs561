@@ -1,4 +1,4 @@
-# Experiments
+
 
 Use the following scripts to run the performance benchmarks
 
